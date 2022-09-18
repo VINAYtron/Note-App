@@ -2,4 +2,4 @@ This is a Single Page, Mobile Responsive Note Taking Website with CRUD functiona
 
 Tech ---> HTML, CSS, JS
 
-Host URL ---> https://agencywebsitevinay.netlify.app/
+Host URL ---> 

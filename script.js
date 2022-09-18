@@ -24,7 +24,7 @@ const addNewNote = (text = "") => {
     </div>
 
     <div class="main ${text ? "" : "hidden"} "> </div>
-    <textarea class="${text ? "hidden" : ""}"></textarea>  `;
+    <textarea placeholder="write here ..." class="${text ? "hidden" : ""}"></textarea>  `;
 
   note.insertAdjacentHTML("afterbegin", htmlData);
   // console.log(note);
