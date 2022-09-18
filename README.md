@@ -2,4 +2,4 @@ This is a Single Page, Mobile Responsive Note Taking Website with CRUD functiona
 
 Tech ---> HTML, CSS, JS
 
-Host URL ---> 
+Host URL ---> https://noteappvinay.netlify.app/
