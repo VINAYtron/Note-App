@@ -1,5 +1,13 @@
-This is a Single Page, Mobile Responsive Note Taking Website with CRUD functionality & Saving Notes inside LocalStorage .
+# JS Note Taking Web-App
 
-Tech ---> HTML, CSS, JS
+- CRUD functionality & Saving Notes inside LocalStorage .
+- This is a Single Page
+- Mobile Responsive Note Taking Website
 
-Host URL ---> https://noteappvinay.netlify.app/
+# Tech
+
+- HTML, CSS, JS
+
+# Demo - Deployed over Netlify
+
+- https://noteappvinay.netlify.app/
