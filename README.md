@@ -1,7 +1,7 @@
 # JS Note Taking Web-App
 
 - CRUD functionality & Saving Notes inside LocalStorage .
-- This is a Single Page
+- This is a Single Page Web-app
 - Mobile Responsive Note Taking Website
 
 # Tech
